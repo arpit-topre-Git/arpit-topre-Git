@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arpit-topre-Git
 - 👀 I’m interested in ...Front End Web Development
-- 🌱 I’m currently learning ...JavaScript and C++ 
+- 🌱 I’m currently working on technologies like javascript and react js. 
 - 💞️ I’m looking to collaborate on ...web development open source projects
 - 📫 How to reach me ...1. Email: toprearpit44@gmail.com
      2. Instagram : arpit_topre
